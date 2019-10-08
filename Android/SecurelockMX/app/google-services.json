@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "603562717869",
+    "firebase_url": "https://slockmx.firebaseio.com",
+    "project_id": "slockmx",
+    "storage_bucket": "slockmx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603562717869:android:86dcedd7f376b2f1",
+        "android_client_info": {
+          "package_name": "mx.easysoft.securelockmx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603562717869-l28ffdo9vcnsgua5vcirqhdpja6c75jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.easysoft.securelockmx",
+            "certificate_hash": "2753a835b5a199389668a52acc4c625b618ba442"
+          }
+        },
+        {
+          "client_id": "603562717869-mm1r6pp1jqptind7v8hhtstfaj0e7m98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.easysoft.securelockmx",
+            "certificate_hash": "ad349989a85f2c70eb28101ebb7d47e78e9ef6f1"
+          }
+        },
+        {
+          "client_id": "603562717869-7vb946v1mfq7jc0e967mrmqcmnnap6tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPKBK0Y8pnlzSz2GwmbPEVGGJ7bJ15SLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603562717869-7vb946v1mfq7jc0e967mrmqcmnnap6tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
